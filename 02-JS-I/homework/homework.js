@@ -231,6 +231,7 @@ function obtenerSaludo(nombre) {
   // Tu código:
   var nombre = Martin;
   return "hola" + " " + nombre;
+
 }
 
 function obtenerAreaRectangulo(alto, ancho) {
